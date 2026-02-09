@@ -1,4 +1,4 @@
-# 🪡 Leather Defect Detector (Arpit bhosdiwwale bkl clone na kr diyo yeh maa chod dunga...sahil same for you)
+# 🪡 Leather Defect Detector 
 *An AI-powered leather quality inspector that spots scratches, wrinkles, holes — and even fakes that aren’t leather.*
 
 ---
